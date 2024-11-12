@@ -1,4 +1,4 @@
-# Microservice-CarJunkYardApp
+# JavaScript Microservice: Car Junk Yard Application
 
 This repository contains few microservices which interact with each other using Axios library.
 These services are created as a sample to understand how a micro services can be buit and how they can interact with each other.
